@@ -1,0 +1,6 @@
+name: TimaSpit
+version: '${project.version}'
+main: ovh.rootkovskiy.timaspit.Main
+authors: [ timurroot ]
+description: Simple plugin whitch the adding the ability to spit in Minecraft
+website: www.rootkovskiy.ovh
