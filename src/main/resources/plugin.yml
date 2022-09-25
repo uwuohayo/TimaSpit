@@ -4,3 +4,10 @@ main: ovh.rootkovskiy.timaspit.Main
 authors: [ timurroot ]
 description: Simple plugin whitch the adding the ability to spit in Minecraft
 website: www.rootkovskiy.ovh
+commands:
+  spit:
+    description: Spit at other players
+permissions:
+  spit.use:
+    description: perm for use spit
+    default: op
